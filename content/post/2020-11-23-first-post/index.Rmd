@@ -1,0 +1,11 @@
+---
+title: first post
+author: keunholee
+date: '2020-11-23'
+slug: first-post
+categories:
+  - R
+tags: []
+---
+
+오늘 아침
