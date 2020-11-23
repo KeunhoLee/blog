@@ -1,11 +1,15 @@
 baseurl = "https://keunholee.github.io/blog/"
-languageCode = "en-us"
-title = "A Hugo website"
+languageCode = "ko-KR"
+title = "Keunho Lee's Blog"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 publishDir = "docs"
+enableEmoji = true
+canonifyurls = true
+hasCJKLanguage = true
+
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -15,13 +19,10 @@ publishDir = "docs"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://github.com/KeunhoLee"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "blogdown으로 생성된 블로그입니다."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"

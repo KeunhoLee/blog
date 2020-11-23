@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A Hugo website</title>
+    <title>Tags on Keunho Lee&#39;s Blog</title>
     <link>https://keunholee.github.io/blog/tags/</link>
-    <description>Recent content in Tags on A Hugo website</description>
+    <description>Recent content in Tags on Keunho Lee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://keunholee.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language><atom:link href="https://keunholee.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
